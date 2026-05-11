@@ -101,14 +101,18 @@ Main.java
 
 ## 📸 Gameplay Preview
 
+### Image 1:
+![Image 1](https://github.com/Keerthivasan-04/Tom_and_Jerry_Game/blob/fb0904a6251422e77299b324afa65669d42fd4f0/Image_1.png)
 
+### Image 2:
+![Image 2](https://github.com/Keerthivasan-04/Tom_and_Jerry_Game/blob/fb0904a6251422e77299b324afa65669d42fd4f0/Image_2.png)
 
-```markdown
-![image_url](https://github.com/Keerthivasan-04/Tom_and_Jerry_Game/blob/fb0904a6251422e77299b324afa65669d42fd4f0/Image_1.png)
-![image_url](https://github.com/Keerthivasan-04/Tom_and_Jerry_Game/blob/fb0904a6251422e77299b324afa65669d42fd4f0/Image_2.png)
-![image_url](https://github.com/Keerthivasan-04/Tom_and_Jerry_Game/blob/fb0904a6251422e77299b324afa65669d42fd4f0/Image_3.png)
-![image_url](https://github.com/Keerthivasan-04/Tom_and_Jerry_Game/blob/fb0904a6251422e77299b324afa65669d42fd4f0/Image_4.png)
-```
+### Image 3:
+![Image 3](https://github.com/Keerthivasan-04/Tom_and_Jerry_Game/blob/fb0904a6251422e77299b324afa65669d42fd4f0/Image_3.png)
+
+### Image 4:
+![Image 4](https://github.com/Keerthivasan-04/Tom_and_Jerry_Game/blob/fb0904a6251422e77299b324afa65669d42fd4f0/Image_4.png)
+
 
 ---
 
