@@ -126,3 +126,11 @@ Contributions are welcome!
 3. Commit your changes
 4. Push to the branch
 5. Open a Pull Request
+
+---
+
+# 👨‍💻 Author
+
+Developed by **Keerthivasan**
+
+GitHub: `https://github.com/Keerthivasan-04`
