@@ -129,8 +129,8 @@ Contributions are welcome!
 
 ---
 
-# 👨‍💻 Author
+# 📄 License
 
-Developed by **Keerthivasan**
+This project is developed for educational purposes.
 
-GitHub: `https://github.com/Keerthivasan-04`
+---
